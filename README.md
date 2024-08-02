@@ -1,14 +1,14 @@
 # thedriftingartzone
 A bunch of references for people on the drifting artzone discord.
+ <br />
 
-
-TOOLS: 
-  Creative Generative Tools:
-    StoryDice, physical or (https://davebirss.com/storydice/)
-    The ground itself - Everest Pipkin (https://everestpipkin.itch.io/the-ground-itself)
+TOOLS:  <br />
+  Creative Generative Tools: <br />
+    StoryDice, physical or (https://davebirss.com/storydice/) <br />
+    The ground itself - Everest Pipkin (https://everestpipkin.itch.io/the-ground-itself) <br />
     
 
-TEXTS:
-  LIBRARY REF:
-    Gesture Drawing for Animation - Walt Stanchfield
-    Top Ten Games you can play in your head by yourself - Gorski/Lovett
+TEXTS: <br />
+  LIBRARY REF: <br />
+    Gesture Drawing for Animation - Walt Stanchfield <br />
+    Top Ten Games you can play in your head by yourself - Gorski/Lovett <br />
