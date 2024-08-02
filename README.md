@@ -6,9 +6,11 @@ TOOLS:  <br />
  (Creative Generative Tools): <br />
   *  StoryDice, physical or (https://davebirss.com/storydice/) <br />
    * The ground itself - Everest Pipkin (https://everestpipkin.itch.io/the-ground-itself) <br />
+   
     
 
 TEXTS: <br />
  (#theLibrary ref): <br />
   *  Gesture Drawing for Animation - Walt Stanchfield <br />
    * Top Ten Games you can play in your head by yourself - Gorski/Lovett <br />
+   * The Creative Act - Rick Rubin (https://archive.org/details/the-creative-act-by-rick-rubin)
