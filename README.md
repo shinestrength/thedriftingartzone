@@ -9,6 +9,6 @@ TOOLS:  <br />
     
 
 TEXTS: <br />
- ** (#theLibrary ref): <br />
+ (#theLibrary ref): <br />
   *  Gesture Drawing for Animation - Walt Stanchfield <br />
    * Top Ten Games you can play in your head by yourself - Gorski/Lovett <br />
