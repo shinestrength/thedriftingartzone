@@ -23,3 +23,11 @@
  * [Finger World by Crowmore](https://vrchat.com/home/world/wrld_813567a9-f6bd-47a9-a987-d3c57a6c6930 )  <br />
 
  ### (Games and Play):<br />
+
+
+
+## ORGANISATIONAL TOOLS:
+
+ * [Logseq](https://logseq.com/)
+ * [Notion](https://www.notion.so/)
+ * [Obsidian](https://obsidian.md/)
