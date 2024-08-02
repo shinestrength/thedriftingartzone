@@ -4,7 +4,7 @@
 
 ## TOOLS:  <br />
  ### (Creative Generative Tools): <br />
-  *  StoryDice, physical or[online](https://davebirss.com/storydice/) <br />
+  *  StoryDice, physical or [online](https://davebirss.com/storydice/) <br />
    * [The ground itself - Everest Pipkin](https://everestpipkin.itch.io/the-ground-itself)  <br />
    
     
