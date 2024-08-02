@@ -6,6 +6,11 @@
  ### (Creative Generative Tools): <br />
   *  StoryDice, physical or [online](https://davebirss.com/storydice/) <br />
    * [The ground itself - Everest Pipkin](https://everestpipkin.itch.io/the-ground-itself)  <br />
+
+ ### (Organisational) 
+   * [Logseq](https://logseq.com/)
+   * [Notion](https://www.notion.so/)
+   * [Obsidian](https://obsidian.md/)
    
     
 
@@ -26,8 +31,5 @@
 
 
 
-## ORGANISATIONAL TOOLS:
 
- * [Logseq](https://logseq.com/)
- * [Notion](https://www.notion.so/)
- * [Obsidian](https://obsidian.md/)
+
