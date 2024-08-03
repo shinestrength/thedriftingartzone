@@ -11,6 +11,11 @@
    * [Logseq](https://logseq.com/)
    * [Notion](https://www.notion.so/)
    * [Obsidian](https://obsidian.md/)
+
+### (Visual)<br />
+
+ * [StoryPencil (Blender addon) ](https://www.youtube.com/watch?v=b25kfE6qd_c)
+   
    
     
 
