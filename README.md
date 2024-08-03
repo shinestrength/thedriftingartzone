@@ -5,8 +5,8 @@
 ## TOOLS:  <br />
  ### (Creative / Generative): <br />
   *  StoryDice, physical or [online](https://davebirss.com/storydice/) <br />
-   * [The ground itself - Everest Pipkin](https://everestpipkin.itch.io/the-ground-itself)  <br />
-    * [Top Ten Games you can play in your head by yourself - Gorski/Lovett](https://www.goodreads.com/book/show/44166209-top-10-games-you-can-play-in-your-head-by-yourself) <br />
+  * [The ground itself - Everest Pipkin](https://everestpipkin.itch.io/the-ground-itself)  <br />
+  * [Top Ten Games you can play in your head by yourself - Gorski/Lovett](https://www.goodreads.com/book/show/44166209-top-10-games-you-can-play-in-your-head-by-yourself) <br />
 
  ### (Organisational) 
    * [Logseq](https://logseq.com/)
