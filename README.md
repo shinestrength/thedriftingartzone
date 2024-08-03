@@ -24,6 +24,7 @@
   *  [Gesture Drawing for Animation - Walt Stanchfield](https://dn790009.ca.archive.org/0/items/Gesture_Drawing_for_Animation/Gesture_Drawing_for_Animation.pdf) <br />
    * [Top Ten Games you can play in your head by yourself - Gorski/Lovett](https://www.goodreads.com/book/show/44166209-top-10-games-you-can-play-in-your-head-by-yourself) <br />
    * [The Creative Act - Rick Rubin](https://archive.org/details/the-creative-act-by-rick-rubin)  <br />
+   * [Steal Like an Artist: 10 Things Nobody Told You About Being Creative - Austin Kleon](https://www.goodreads.com/book/show/13099738-steal-like-an-artist)
 
 ### Essays/Longform/WWW: <br />
  * [Comics People 015 - "The Prison of Style" - Discussing the Essay by Tommi Musturi](https://www.youtube.com/watch?v=Hg9gHF31rUE)
