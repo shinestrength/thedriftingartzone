@@ -26,7 +26,8 @@
    * [The Creative Act - Rick Rubin](https://archive.org/details/the-creative-act-by-rick-rubin)  <br />
    * [Steal Like an Artist: 10 Things Nobody Told You About Being Creative - Austin Kleon](https://www.goodreads.com/book/show/13099738-steal-like-an-artist)
    * [The Poetics of Space - Gaston Bachelard](https://archive.org/details/the-poetics-of-space/)
-
+   * [The Drifting Classroom - Kazuo Umezu](https://archive.org/details/the-drifting-classroom/The%20Drifting%20Classroom%20v01%20%282006%29%20%28Digital%29%20%28LostNerevarine-Empire%29/mode/2up)
+     
 ### Essays/Longform/WWW: <br />
  * [Comics People 015 - "The Prison of Style" - Discussing the Essay by Tommi Musturi](https://www.youtube.com/watch?v=Hg9gHF31rUE)
 
