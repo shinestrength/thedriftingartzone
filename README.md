@@ -25,6 +25,8 @@
    * [Top Ten Games you can play in your head by yourself - Gorski/Lovett](https://www.goodreads.com/book/show/44166209-top-10-games-you-can-play-in-your-head-by-yourself) <br />
    * [The Creative Act - Rick Rubin](https://archive.org/details/the-creative-act-by-rick-rubin)  <br />
 
+### Essays/Longform/WWW: <br />
+ * [Comics People 015 - "The Prison of Style" - Discussing the Essay by Tommi Musturi](https://www.youtube.com/watch?v=Hg9gHF31rUE)
 
 ## INTERACTIVE:
  ### (Vrchat Worlds):<br />
