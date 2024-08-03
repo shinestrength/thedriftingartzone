@@ -27,6 +27,9 @@
    * [Steal Like an Artist: 10 Things Nobody Told You About Being Creative - Austin Kleon](https://www.goodreads.com/book/show/13099738-steal-like-an-artist)
    * [The Poetics of Space - Gaston Bachelard](https://archive.org/details/the-poetics-of-space/)
    * [The Drifting Classroom - Kazuo Umezu](https://archive.org/details/the-drifting-classroom/)
+   * [Pen and Ink Drawing - A Simple Guide  - Alphonso Dunn](https://www.goodreads.com/book/show/28208534-pen-and-ink-drawing)
+   * [Batman: Black and White (Vol 1) - Mark Chiarello (Editor), Ted McKeever, Bruce Timm](https://www.goodreads.com/book/show/1309285.Batman_Black_and_White_Vol_1)
+   * [Slavic Nihilism: Artyom Trakhanov](https://ohotnig.gumroad.com/l/SlavNih1)
      
 ### Essays/Longform/WWW: <br />
  * [Comics People 015 - "The Prison of Style" - Discussing the Essay by Tommi Musturi](https://www.youtube.com/watch?v=Hg9gHF31rUE)
