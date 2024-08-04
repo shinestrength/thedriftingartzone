@@ -1,5 +1,5 @@
 # thedriftingartzone
- A bunch of references for people on the drifting artzone discord.
+ A bunch of references from the people on the drifting artzone discord.
  <br />
 
 ## TOOLS:  <br />
