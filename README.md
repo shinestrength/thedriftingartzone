@@ -22,7 +22,12 @@
  * [StoryPencil (Blender addon) ](https://www.youtube.com/watch?v=b25kfE6qd_c)
  * [GIFPaint](https://gifpaint.com/)
  * [DitherIT](https://ditherit.com/)
-   
+
+
+### (VJ/Livestream/Performance)
+
+* [Tool3](https://tooll.io/) open source vj
+* [Lumen](https://lumen-app.com/) analog video synth style workflow and output! (Can use the usual tricks to feed it into bigger VJ kit)
    
     
 
