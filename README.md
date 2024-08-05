@@ -7,15 +7,20 @@
   *  StoryDice, physical or [online](https://davebirss.com/storydice/) <br />
   * [The ground itself - Everest Pipkin](https://everestpipkin.itch.io/the-ground-itself)  <br />
   * [Top Ten Games you can play in your head by yourself - Gorski/Lovett](https://www.goodreads.com/book/show/44166209-top-10-games-you-can-play-in-your-head-by-yourself) <br />
+  * [Active Imagination (Jungian technique)](https://drive.google.com/file/d/1j_Bwnyn6fBi2vc6ehQAQVKyDn7boXlO4/view ) </br>
+  * [Brian Eno's Oblique Strategies](http://stoney.sb.org/eno/oblique.html) </br>
 
  ### (Organisational) 
    * [Logseq](https://logseq.com/)
    * [Notion](https://www.notion.so/)
    * [Obsidian](https://obsidian.md/)
+   * [Goodnotes](https://www.goodnotes.com/)
+   * [Calibre](https://calibre-ebook.com/)
 
 ### (Visual)<br />
 
  * [StoryPencil (Blender addon) ](https://www.youtube.com/watch?v=b25kfE6qd_c)
+ * [GIFPaint](https://gifpaint.com/)
    
    
     
@@ -31,6 +36,8 @@
    * [Pen and Ink Drawing - A Simple Guide  - Alphonso Dunn](https://www.goodreads.com/book/show/28208534-pen-and-ink-drawing)
    * [Batman: Black and White (Vol 1) - Mark Chiarello (Editor), Ted McKeever, Bruce Timm](https://www.goodreads.com/book/show/1309285.Batman_Black_and_White_Vol_1)
    * [Slavic Nihilism: Artyom Trakhanov](https://ohotnig.gumroad.com/l/SlavNih1)
+   * [Bird by Bird - Anne Lamott](https://www.goodreads.com/book/show/12543.Bird_by_Bird)
+   * [The Red Book: Liber Novus - CG Jung](https://www.goodreads.com/book/show/6454477-the-red-book)
      
 ### Essays/Longform/WWW: <br />
  * [Comics People 015 - "The Prison of Style" - Discussing the Essay by Tommi Musturi](https://www.youtube.com/watch?v=Hg9gHF31rUE)
