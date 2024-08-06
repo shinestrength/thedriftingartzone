@@ -11,10 +11,13 @@
   * [Brian Eno's Oblique Strategies](http://stoney.sb.org/eno/oblique.html) </br>
 
  ### (Organisational) 
+  #### Note Taking
    * [Logseq](https://logseq.com/)
    * [Notion](https://www.notion.so/)
    * [Obsidian](https://obsidian.md/)
    * [Goodnotes](https://www.goodnotes.com/)
+  
+  #### Library Management
    * [Calibre](https://calibre-ebook.com/)
 
 ### (Visual)<br />
