@@ -49,6 +49,7 @@
    * [Slavic Nihilism: Artyom Trakhanov](https://ohotnig.gumroad.com/l/SlavNih1)
    * [Bird by Bird - Anne Lamott](https://www.goodreads.com/book/show/12543.Bird_by_Bird)
    * [The Red Book: Liber Novus - CG Jung](https://www.goodreads.com/book/show/6454477-the-red-book)
+   * [Anatomy for Artists - Drawing form and pose - Tom Fox ](https://www.goodreads.com/book/show/61187735-anatomy-for-artists)
      
 ### Essays/Longform/WWW: <br />
  * [Comics People 015 - "The Prison of Style" - Discussing the Essay by Tommi Musturi](https://www.youtube.com/watch?v=Hg9gHF31rUE)
