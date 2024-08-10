@@ -16,6 +16,7 @@
    * [Notion](https://www.notion.so/)
    * [Obsidian](https://obsidian.md/)
    * [Goodnotes](https://www.goodnotes.com/)
+   * [Dynalist](https://dynalist.io/) 
   
   #### Library Management
    * [Calibre](https://calibre-ebook.com/)
