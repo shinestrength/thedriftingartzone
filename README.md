@@ -27,6 +27,8 @@
  * [GIFPaint](https://gifpaint.com/)
  * [DitherIT](https://ditherit.com/)
  * [Cables](https://cables.gl/edit/xHwYjG )  open source node based web app / standalone shader creative toolset
+ * [ComfyUI](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing) generative AI imagery
+ * [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) Krita with Comfy backend
 
 
 ### (VJ/Livestream/Performance)
@@ -50,6 +52,7 @@
    * [Bird by Bird - Anne Lamott](https://www.goodreads.com/book/show/12543.Bird_by_Bird)
    * [The Red Book: Liber Novus - CG Jung](https://www.goodreads.com/book/show/6454477-the-red-book)
    * [Anatomy for Artists - Drawing form and pose - Tom Fox ](https://www.goodreads.com/book/show/61187735-anatomy-for-artists)
+   * [Somnambule - Anke Feuchtenberger](https://reprodukt.com/products/somnambule)
      
 ### Essays/Longform/WWW: <br />
  * [Comics People 015 - "The Prison of Style" - Discussing the Essay by Tommi Musturi](https://www.youtube.com/watch?v=Hg9gHF31rUE)
